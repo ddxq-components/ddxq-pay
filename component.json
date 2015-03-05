@@ -1,0 +1,9 @@
+{
+  "name": "ddxq-stat",
+  "repo": "ddxq-components/ddxq-stat",
+  "description": "stat",
+  "version": "0.1.0",
+  "keywords": ["stat"],
+  "scripts": ["index.js"],
+  "license": "上海壹佰米网络科技有限公司"
+}
